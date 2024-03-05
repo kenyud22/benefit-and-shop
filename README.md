@@ -12,3 +12,4 @@ pada program ini tersedia:
 - fungsi hitung layanan
 - melihat user berada dalam layanan apa dengan 2 inputan
 - hitung manfaat berdasarkan layanan
+- program berjalan dengan interaktif dengan user mengisi sendiri kebutuhannya
